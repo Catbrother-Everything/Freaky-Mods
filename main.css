@@ -1,0 +1,21 @@
+body {
+  background-image: url("https://cdn.discordapp.com/attachments/876972610553020447/876993326237245460/unknown.png");
+  background-color: #cccccc;
+  font-family: arial;
+}
+
+h1 {
+	color: white;
+	font-size: 600%;
+}
+
+coolswag {
+	color: white;
+	
+	font-size: 300%;
+}
+
+a {
+	color: white;
+	font-size: 250%;
+}
